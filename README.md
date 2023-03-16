@@ -1,7 +1,7 @@
 # AluraBooks
 Projeto feito durante o curso de responsividade da Alura
 
-![Imagem AluraBooks](./assets/About%20me.png)
+![Imagem AluraBooks](./assets/AluraBooksApresentacao.png)
   
 # Alura Books
 
